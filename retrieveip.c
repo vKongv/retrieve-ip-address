@@ -37,7 +37,7 @@ int main(){
 
 	//If no IP address found, display the error
 	if(!foundIp){
-	    printf("No IP address found\n");
+	    printf("Port eth0 is down.\n");
 	}
 	
 	//Close the file
