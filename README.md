@@ -3,6 +3,7 @@ This program is used to retrieve ip address of a Linux based machine.
 
 # Developers' details:
 Group name - VK
+
 Group members:
 - Kong Ka Weng 1112703478
 - Wee Vivien 1112703407
